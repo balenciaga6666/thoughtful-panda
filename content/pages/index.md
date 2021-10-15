@@ -14,7 +14,8 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: >-
+      /images/https___hypebeast.com_image_2021_10_balenciaga-the-simpsons-spring-summer-2022-release-details-02.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
