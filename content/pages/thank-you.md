@@ -14,4 +14,9 @@ sections:
     padding_bottom: large
     background_color: none
 layout: advanced
+seo:
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 ---
